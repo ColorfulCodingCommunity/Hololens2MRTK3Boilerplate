@@ -1,5 +1,7 @@
 # MRTK3, OpenXR, Hololens 2 Boilerplate
 
+### Build: Unity 2022.3.50f1
+
 Setup was made based on these steps:
 https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/new-openxr-project-with-mrtk
 
